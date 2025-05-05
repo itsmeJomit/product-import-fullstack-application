@@ -113,12 +113,12 @@ Phone,800,SKU002,Latest smartphone
 
 ## API Endpoints
 
-| Method | Endpoint             | Description             |
-| ------ | -------------------- | ----------------------- |
-| POST   | /api/register        | Register a new user     |
-| POST   | /api/login           | Login a user            |
-| GET    | /api/products        | Get paginated products  |
-| POST   | /api/import-products | Import products via CSV |
+| Method | Endpoint                      | Description             |
+| ------ | ----------------------------- | ----------------------- |
+| POST   | /api/register                 | Register a new user     |
+| POST   | /api/login                    | Login a user            |
+| GET    | /api/products                 | Get paginated products  |
+| POST   | /api/products/import-products | Import products via CSV |
 
 ---
 
